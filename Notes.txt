@@ -11,4 +11,5 @@
 
 * HTML Comments - can be shown using <script> <!-- A comment --> </script> also seen on page 23.
 
+* When trying to make a new line for javascript use "\n" ... unless you are rendering it for HTML then use <br><br/>
 
