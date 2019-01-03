@@ -1,0 +1,14 @@
+-Javascript Notes-
+
+* JavaScript is the most-used language for client-side scripting on the Internet.
+* JavaScript is an interpreted language, rather than a compiled language such as Java or C++.
+
+* alert(); - will display the message as an alert on browser. For example alert("Hello World!"); .... Also can use the property of the title such as alert(document.title); - this will display the title of the document. 
+
+* Another cool trick is to find the date and time that the web page was last changed using alert(document.lastModified); ---- It will output something like this 01/03/2019 00:30:43
+
+* Keeping your javascript separate from your HTML as you can see on my Helloworld example I have placed javascript in mycode.js and then call it on my HTML section as <script src ='mycode.js'></script>
+
+* HTML Comments - can be shown using <script> <!-- A comment --> </script> also seen on page 23.
+
+

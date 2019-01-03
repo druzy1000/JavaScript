@@ -1,0 +1,8 @@
+{
+    "name": "hello.html",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Reyes",
+    "contributors": [],
+    "dependencies": {}
+}
