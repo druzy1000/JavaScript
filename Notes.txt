@@ -15,3 +15,5 @@
 
 * Javascript deals with events by using so-called event handlers. We are going to investigate three of these: onClick, onMouseOver, and onMouseOut.
 
+* When you use (this) within an event handler added via an attribute of an HTML element, (this) refers to the HTML element itself.
+
