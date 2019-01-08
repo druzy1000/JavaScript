@@ -13,3 +13,5 @@
 
 * When trying to make a new line for javascript use "\n" ... unless you are rendering it for HTML then use <br><br/>
 
+* Javascript deals with events by using so-called event handlers. We are going to investigate three of these: onClick, onMouseOver, and onMouseOut.
+
