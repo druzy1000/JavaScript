@@ -17,3 +17,7 @@
 
 * When you use (this) within an event handler added via an attribute of an HTML element, (this) refers to the HTML element itself.
 
+* Anonymous Functions - - A more elegant way and convenient way to define a function without having to create a separate named function and then later assign it by name to the required method. For example:
+
+	var sayHello = function() { alert("Hello"); };  - Anonymous Function
+
